@@ -1,6 +1,6 @@
 # Example MapReduce code for Hadoop Streaming
 
-A simple MapReduce program for testing Hadoop Streaming feature.
+A simple MapReduce program written in Python3 for testing Hadoop Streaming feature.
 
 ###### Mapper.py
 1. For each input line of text, remove leading and trailing spaces
