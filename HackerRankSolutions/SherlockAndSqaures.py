@@ -1,3 +1,23 @@
+# This code provides a solution to HackerRanks 'Sherlock and Squares' problem.
+# The solution is built around the pattern of the interval between numbers as depicted below:
+#   PS    Interval
+#    4
+#            5 
+#    9
+#            7
+#   16
+#            9        
+#   25
+#           11
+#   36
+#           13
+#   49
+#           15
+#   64
+#           17
+#   81
+
+
 import math
 import time
 
